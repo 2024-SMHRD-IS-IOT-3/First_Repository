@@ -102,17 +102,17 @@
 
 
 
+
+
 ## 📌팀원역할~~
 <table>
   <tr>
     <td align="center"><strong>김민기</strong></td>
-    <td align="center"><strong>모현정</strong></td>
-    <td align="center"><strong>이충열</strong></td>
-    <td align="center"><strong>주영빈</strong></td>
+    <td align="center"><strong>김도아</strong></td>
+    <td align="center"><strong>유연우</strong></td>
     <td align="center"><strong>홍우진</strong></td>
   </tr>
  <tr>
-    <td align="center">Main</td>
     <td align="center">Main</td>
     <td align="center">Main</td>
     <td align="center">Main</td>
@@ -122,7 +122,6 @@
     <td align="center">팀장, Server</td>
     <td align="center">PM, Front-End </td>
     <td align="center">하드웨어, AI</td>
-    <td align="center">하드웨어</td>
     <td align="center">DB</td>
   </tr>
  <tr>
@@ -130,17 +129,14 @@
     <td>· 프로젝트 일정/개인별진행 사항 파악 및 회의록 작성, 회원가입/로그인/출석/작업환경/마이페이지 등 모든 페이지 제작 및 디자인, 페이지별 기능 연결, 각종 산출문서 관리 </td>
     <td>· 데이터수집,데이터전처리,객체인식 모델링 및 학습, 모델 추론속도 향상 작업, 젯슨보드 환경설정, 젯슨보드에 객체인식과 서보모터 모듈 코드 병합</td>
     <td>· 젯슨 보드 환경설정, 하드웨어 회로구성,센싱데이터 서버 전송</td>
-    <td>·데이터 모델링 작업, Oracle을 이용한 DB 테이블 만들기, 문서정리</td>
   </tr>
  <tr>
     <td align="center">Sub</td>
     <td align="center">Sub</td>
     <td align="center">Sub</td>
     <td align="center">Sub</td>
-    <td align="center">Sub</td>
   </tr>
  <tr>
-    <td align="center">공통업무</td>
     <td align="center">공통업무</td>
     <td align="center">공통업무</td>
     <td align="center">공통업무</td>
@@ -151,14 +147,12 @@
     <td>· 팀 자기소개서 작성, 프로젝트 회의록 작성, 프로젝트 약식 기획서 작성, 요구사항 정의서 작성, 기획발표용 PPT 제작, 구매 목록 시트 작성, 멘토링 진행일지 작성, 화면 설계서 제작, UI/UX 멘토링용 피그마 구현    </td>
     <td>· 프로젝트 기획서 작성, IoT 회로 구성 설계서 작성, 멘토링 진행일지 작성,구매 목록 시트 작성, 시스템 아키텍처 제작</td>
     <td>· 프로젝트기획서 작성, DB 요구사항 분석서 작성, 멘토링 진행일지 작성, ER 다이어그램 작성,기획발표   </td>
-    <td>· 브레인 스토밍 작성, 프로젝트 진행일지 작성, 멘토링 진행일지 작성, 프로젝트 회의록 작성, DB테이블 구성</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MINKIKING" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/mohyunjeong" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/yeolchung" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/yb1882" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/02childgood" target='_blank'>github</a></td>
   </tr>
 </table>
 <br/>
