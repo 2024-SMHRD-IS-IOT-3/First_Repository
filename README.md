@@ -84,15 +84,23 @@
 <br/>
 
 ## 📌화면구성~~
-##### 1. 로그인 화면<br/>
-![KakaoTalk_20240813_103444432](https://github.com/user-attachments/assets/088e5402-c7cf-4ab0-aeed-ae4c05fe760c)
-##### 2. 마이페이지 화면<br/>
-![KakaoTalk_20240812_124911193](https://github.com/user-attachments/assets/e07f0df4-9452-468e-91a0-587e4bc7d1b6)
-##### 3. 출석 화면<br/>
-![KakaoTalk_20240812_124854595](https://github.com/user-attachments/assets/60afb213-2e6c-4057-a0b6-5bd150d798e0)
-##### 4. 작업 환경 화면<br/>
-![KakaoTalk_20240812_124959791](https://github.com/user-attachments/assets/1b9c27cf-89b4-4d66-8a02-3dbe59b13cca)
+##### 1. 첫 페이지<br/>
+![화면 캡처 2024-08-15 101728](https://github.com/user-attachments/assets/e9eeb079-08ed-40a8-94a9-cc1d4886bd96)
+##### 2. 로그인 페이지<br/>
+![화면 캡처 2024-08-15 101756](https://github.com/user-attachments/assets/fdbefdc4-4ad5-4c64-aa22-40bf532a0afc)
+##### 3. 회원가입 페이지<br/>
+![화면 캡처 2024-08-15 101814](https://github.com/user-attachments/assets/93eb1805-d969-4669-a229-0045c74b95ea)
+##### 4. 회원가입 성공 페이지<br/>
+![화면 캡처 2024-08-15 101831](https://github.com/user-attachments/assets/0db0703f-8943-4590-8472-68b57a9b57c7)
 <br/>
+##### 5. 회원가입 실패 페이지<br/>
+![화면 캡처 2024-08-15 101849](https://github.com/user-attachments/assets/6a897b8c-f161-4a6b-8c67-2575845b579b)
+<br/>
+##### 6. 관리자 페이지<br/>
+![화면 캡처 ![화면 캡처 2024-08-15 101907](https://github.com/user-attachments/assets/20a73db4-55c8-4b52-a226-7e6c4ba644e3)
+<br/>
+
+
 
 ## 📌팀원역할~~
 <table>
