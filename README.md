@@ -76,7 +76,7 @@
 <br/>
 
 ## 📌ER 다이어그램
-![image](https://github.com/user-attachments/assets/4c2b5998-3a01-4936-b8a1-93004970042e)
+![화면 캡처 2024-08-15 101411](https://github.com/user-attachments/assets/4387d39c-c992-4706-81b6-81b6e6d0d01b)
 <br/>
 
 ## 📌회로구성도
