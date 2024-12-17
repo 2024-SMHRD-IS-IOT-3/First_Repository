@@ -1,13 +1,13 @@
 # 공사장 현장 근무자의 안전모 착용 모니터링 시스템<br/>  (팀명 : 안전두뇌)
 
-## 📌프로젝트 소개
+## 프로젝트 소개
 -  라즈베리파이 기반 사고 발생 시 신속한 구조를 위한 정보 제공, 사고예방 및 안전모 착용 강제화 스마트 안전모
 - 작업중인 근무자의 안전모 착용 여부를 실시간으로 모니터링하고, 공사장 내 근로자의 위치와 작업 환경을 관리자가 효율적으로 관리할 수 있도록 지원하는 대시보드형 웹페이지
 
-## 📌프로젝트 기간
+## 프로젝트 기간
 2024.04.29 ~ 2024.05.24 (약4주)
 
-## 📌주요기능
+## 주요기능
 1. 안전모 착용 상태 감지 시스템
    - 안전모 내부 상단과 턱끈에 압력 감지 센서를 부착하여 안전모가 올바른 착용 여부 감지
    - 착용이 미완료된 경우 지속적으로 경고음을 발생시켜 작업자의 착용을 유도
@@ -32,28 +32,22 @@
         <td>사용언어</td>
         <td>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-           <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=SQL&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+           <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         </td>
     </tr>
     <tr>
-        <td>라이브러리</td>
+        <td>프레임워크</td>
         <td>
-          <img src="https://img.shields.io/badge/ReactNative-00599C?style=for-the-badge&logo=ReactNative&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Mediapipe-00599C?style=for-the-badge&logo=Mediapipe&logoColor=white"/>
-            <img src="https://img.shields.io/badge/YoloV7-00599C?style=for-the-badge&logo=YoloV7&logoColor=white"/>
-            <img src="https://img.shields.io/badge/OpenCV-00599C?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-            <img src="https://img.shields.io/badge/TensorFlow-00599C?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JetPack -00599C?style=for-the-badge&logo=JetPack&logoColor=white"/>
+         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+         <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
     </tr>
     <tr>
-        <td>개발도구</td>
+        <td>IoT</td>
         <td>
-            <img src="https://img.shields.io/badge/VisualStudioCode-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Roboflow-00599C?style=for-the-badge&logo=Roboflow&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Colab -00599C?style=for-the-badge&logo=Colab&logoColor=white"/>
-             <img src="https://img.shields.io/badge/Android-00599C?style=for-the-badge&logo=Android&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"> 
+         <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white">
         </td>
     </tr>
     <tr>
